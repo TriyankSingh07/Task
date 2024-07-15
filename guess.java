@@ -12,6 +12,8 @@ import javax.swing.JTextField;
 import java.awt.Graphics;
 public class guess extends JFrame {
    private JFrame f;
+
+	
 	private int randomNumber;
     private int attempts;
     private int maxAttempts;
