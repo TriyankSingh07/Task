@@ -9,7 +9,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class mode {
-
     static int selectedChances;
     private static JRadioButton r1, r2, r3;
     private static JButton b1,b2;
